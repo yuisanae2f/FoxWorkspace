@@ -1,0 +1,94 @@
+{
+    "holidayState": [
+        {
+            "displayName": "루나인",
+            "groupID": 1,
+            "holidayEnd": 0,
+            "holidayStart": 0,
+            "holidayTicket": 5,
+            "identifier": 1067022341638463500,
+            "score": 10
+        },
+        {
+            "displayName": "하늘보리",
+            "groupID": 2,
+            "holidayEnd": 1720105200000,
+            "holidayStart": 1718582400000,
+            "holidayTicket": 4,
+            "identifier": 1015248388700254200,
+            "score": 10
+        },
+        {
+            "displayName": "단설",
+            "groupID": 4,
+            "holidayEnd": 1720483200000,
+            "holidayStart": 1718841600000,
+            "holidayTicket": 5,
+            "identifier": 631822254740865000,
+            "score": 10
+        },
+        {
+            "displayName": "DEvir",
+            "groupID": 4,
+            "holidayEnd": 0,
+            "holidayStart": 0,
+            "holidayTicket": 5,
+            "identifier": 443689756384165900,
+            "score": 10
+        },
+        {
+            "displayName": "Garo",
+            "groupID": 6,
+            "holidayEnd": 0,
+            "holidayStart": 0,
+            "holidayTicket": 5,
+            "identifier": 1203180250046009300,
+            "score": 10
+        },
+        {
+            "displayName": "먼지",
+            "groupID": 8,
+            "holidayEnd": 1719500400000,
+            "holidayStart": 1718064000000,
+            "holidayTicket": 4,
+            "identifier": 965996180863590500,
+            "score": 10
+        },
+        {
+            "displayName": "코지",
+            "groupID": 304,
+            "holidayEnd": 1720105200000,
+            "holidayStart": 1718722800000,
+            "holidayTicket": 5,
+            "identifier": 1225718915271753700,
+            "score": 10
+        },
+        {
+            "displayName": "goodcoddeo",
+            "groupID": 16,
+            "holidayEnd": 1702306800000,
+            "holidayStart": 1701615600000,
+            "holidayTicket": 5,
+            "identifier": 962520528659304400,
+            "score": 10
+        },
+        {
+            "displayName": "Glockenspiel",
+            "groupID": 272,
+            "holidayEnd": 0,
+            "holidayStart": 0,
+            "holidayTicket": 5,
+            "identifier": 650873564089811000,
+            "score": 10
+        },
+        {
+            "displayName": "sky",
+            "groupID": 64,
+            "holidayEnd": 0,
+            "holidayStart": 0,
+            "holidayTicket": 5,
+            "identifier": 1095270476424675300,
+            "score": 10
+        }
+    ]
+}
